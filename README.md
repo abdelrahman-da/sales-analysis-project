@@ -41,12 +41,12 @@ This end-to-end Sales Analysis project combines SQL, Python, Excel, and Power BI
 * The West and East regions achieved the strongest overall performance.
 * Technology was the top-performing product category by sales.
 
-## Files Included
+## Project Files
 
-* sales-analysis-project.pbix
-* sales-analysis-project.ipynb
-* sales-analysis-project.sql
-* sales-analysis-project.pptx
+- Power BI Dashboard (.pbix)
+- Python Analysis Notebook (.ipynb)
+- SQL Queries & Data Preparation Scripts (.sql)
+- Business Presentation & Insights (.pptx)
 
 ## Dashboard Preview
 
