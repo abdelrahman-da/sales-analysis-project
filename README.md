@@ -27,11 +27,11 @@ An end-to-end sales analytics project designed to transform raw sales data into 
 
 ## Key KPIs
 
-* Total Sales: $2.29M
-* Total Profit: $286K
+* Total Sales: $2.3M
+* Total Profit: $286.76K
 * Total Orders: 9,994
 * Total Quantity Sold: 37,873
-* Average Profit per Order: $29
+* Average Profit per Order: $28.7
 
 ## Key Insights
 
@@ -50,4 +50,4 @@ An end-to-end sales analytics project designed to transform raw sales data into 
 
 ## Dashboard Preview
 
-<img width="1920" height="1080" alt="sales_dashboard_cropped" src="https://github.com/user-attachments/assets/4af982ea-2f8b-4910-b135-9a6c24e3777d" />
+<img width="1920" height="1080" alt="sales_analytics_cropped" src="https://github.com/user-attachments/assets/88d9fe3d-0752-451a-9e59-b5051f52ab62" />
